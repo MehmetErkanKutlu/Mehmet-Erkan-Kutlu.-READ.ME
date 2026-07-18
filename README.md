@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, benen Mehmet Erkan Kutlu</h1>
+<h1 align="center">Merhaba 👋, ben Mehmet Erkan Kutlu</h1>
 <h3 align="center">Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Görüntü işleme, ASP.NET tabanlı web geliştirme ve yapay zeka destekli sistemler üzerine çalışıyorum. Ayrıca veri ön işleme aşamasından model geliştirmeye kadar uzanan makine öğrenimi projeleri geliştiriyorum. Projelerimde genellikle gerçek dünya problemlerine odaklanarak sade ama etkili çözümler üretmeyi hedefliyorum.</h3>
 
 - Veri ön işlemeden - Makine öğrenimine kadar süren bitirme projesi [hastalık_tahmin](*proje süreci devam aşamasında*)
